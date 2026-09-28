@@ -1,5 +1,6 @@
 # Data-analytics-project
-1. Project Overview
+
+1. Project Overview-e-commerce analytics project
 An end-to-end e-commerce analytics project focused on understanding revenue performance, customer behavior, product performance, and customer segmentation.
 2. Tools Used
 Python
